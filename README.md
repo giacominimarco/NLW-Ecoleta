@@ -27,3 +27,6 @@ Start Aplication:
     $ cd mobile
     $ yarn
     $ yarn start
+    
+# 🎓 Who ministered?
+  The classes were taught by <a href="https://github.com/diego3g">Diego Fernandes</a> in Next Level Week classes.
